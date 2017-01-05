@@ -19,6 +19,9 @@ plus it makes it easy to shut down the container by just `exit`ing the shell).
 
 On your host computer, you can access WebAnno at <http://localhost:18080>.
 
+The WebAnno MySQL database (well, all MySQL data) is persisted under
+`mysql/data` on the host.
+
 [webanno]: https://webanno.github.io/webanno/
 [guide]: https://webanno.github.io/webanno/releases/3.0.0/docs/admin-guide.html
 [docker]: https://www.docker.com/
