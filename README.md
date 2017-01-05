@@ -7,7 +7,7 @@ platform, which basically just mirrors the [official installation guide][guide],
 thus giving you an easy way to automatically set up WebAnno -- if you already
 have [Docker][docker] installed that is.
 
-Known to work on Arch Linux (up-to-date as of January 2016) with Docker version
+Known to work on Arch Linux (up-to-date as of January 2017) with Docker version
 1.12.5, build 7392c3b0ce. Let me know if you get this to work elsewhere!
 
 ## Usage
