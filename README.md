@@ -20,7 +20,8 @@ line should look like and type it in manually). Once initialization is done, you
 will land in `bash` (for debugging purposes, plus it makes it easy to shut down
 the container by just `exit`ing the shell).
 
-On your host computer, you can access WebAnno at <http://localhost:18080>.
+On your host computer, you can access WebAnno
+at <http://localhost:18080/webanno>.
 
 The WebAnno MySQL database (well, all MySQL data) is persisted under
 `mysql/data` on the host.
